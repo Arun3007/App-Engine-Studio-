@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Agent Workspace - Demo InstaV">57fe8add2f720110d460f21df699b62b</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Home">0a2f42912fb20110d460f21df699b6a4</macroponent>
+        <macroponent_config>{
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Home default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Home">022f42912fb20110d460f21df699b6a0</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>arun.sharma</sys_created_by>
+        <sys_created_on>2022-04-10 20:13:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a2fc2912fb20110d460f21df699b6bd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Home default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Agent_Workspace_Demo" source="x_680949_agent_wor">a972b1912f320110d460f21df699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_Workspace_Demo">a972b1912f320110d460f21df699b60c</sys_scope>
+        <sys_update_name>sys_ux_screen_5a2fc2912fb20110d460f21df699b6bd</sys_update_name>
+        <sys_updated_by>arun.sharma</sys_updated_by>
+        <sys_updated_on>2022-04-10 20:16:42</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a2fc2912fb20110d460f21df699b6bd"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for appIOPEX Workspace">dc6339152f320110d460f21df699b6a2</applicability>
+        <list display_value="Unassigned">e46339152f320110d460f21df699b6fa</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>arun.sharma</sys_created_by>
+        <sys_created_on>2022-04-10 18:12:16</sys_created_on>
+        <sys_id>646339152f320110d460f21df699b6fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Agent_Workspace_Demo" source="x_680949_agent_wor">a972b1912f320110d460f21df699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_Workspace_Demo">a972b1912f320110d460f21df699b60c</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_646339152f320110d460f21df699b6fc</sys_update_name>
+        <sys_updated_by>arun.sharma</sys_updated_by>
+        <sys_updated_on>2022-04-10 18:12:16</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

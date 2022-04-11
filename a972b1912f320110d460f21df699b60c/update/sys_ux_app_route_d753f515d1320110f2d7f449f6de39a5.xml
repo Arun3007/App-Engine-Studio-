@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="IOPEX Workspace Config">1753f515193201108eef140e332e78a6</app_config>
+        <description/>
+        <fields>uuid</fields>
+        <icon/>
+        <name>KPI Details</name>
+        <optional_parameters>scoreDate,breakdowns,domain</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>ac_kpi_details</route_type>
+        <screen_type display_value="KPI Details">5753f51558320110fc788b1f602be7a5</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>arun.sharma</sys_created_by>
+        <sys_created_on>2022-04-10 18:12:13</sys_created_on>
+        <sys_id>d753f515d1320110f2d7f449f6de39a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KPI Details</sys_name>
+        <sys_package display_value="Agent_Workspace_Demo" source="x_680949_agent_wor">a972b1912f320110d460f21df699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_Workspace_Demo">a972b1912f320110d460f21df699b60c</sys_scope>
+        <sys_update_name>sys_ux_app_route_d753f515d1320110f2d7f449f6de39a5</sys_update_name>
+        <sys_updated_by>arun.sharma</sys_updated_by>
+        <sys_updated_on>2022-04-10 18:12:13</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d753f515d1320110f2d7f449f6de39a5"/>
+</record_update>

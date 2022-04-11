@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="IOPEX Workspace Config">1753f515193201108eef140e332e78a6</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Compose Email">b07e59fe7743501033809b306910610c</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Draft Email Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=sys_email_draft</screen_condition>
+        <screen_type display_value="Record">1f53f515643201104709d561fb28fba5</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>arun.sharma</sys_created_by>
+        <sys_created_on>2022-04-10 18:12:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d753f515ed32011062855153fc64b8a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Draft Email Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Agent_Workspace_Demo" source="x_680949_agent_wor">a972b1912f320110d460f21df699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_Workspace_Demo">a972b1912f320110d460f21df699b60c</sys_scope>
+        <sys_update_name>sys_ux_screen_d753f515ed32011062855153fc64b8a2</sys_update_name>
+        <sys_updated_by>arun.sharma</sys_updated_by>
+        <sys_updated_on>2022-04-10 18:12:11</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d753f515ed32011062855153fc64b8a2"/>
+</record_update>

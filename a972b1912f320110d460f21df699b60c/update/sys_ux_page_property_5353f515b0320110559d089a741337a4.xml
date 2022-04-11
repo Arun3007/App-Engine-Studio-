@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="IOPEX Workspace">5753f515583201106b080fcf2b8420a6</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>arun.sharma</sys_created_by>
+        <sys_created_on>2022-04-10 18:12:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>5353f515b0320110559d089a741337a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Agent_Workspace_Demo" source="x_680949_agent_wor">a972b1912f320110d460f21df699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_Workspace_Demo">a972b1912f320110d460f21df699b60c</sys_scope>
+        <sys_update_name>sys_ux_page_property_5353f515b0320110559d089a741337a4</sys_update_name>
+        <sys_updated_by>arun.sharma</sys_updated_by>
+        <sys_updated_on>2022-04-10 18:12:12</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_680949_agent_wor.5753f515583201106b080fcf2b8420a6.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=5353f515b0320110559d089a741337a4"/>
+</record_update>
